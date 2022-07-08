@@ -1,5 +1,5 @@
 @Library("DemoLib")_
 defaultPipeline(sonarloginKey:"santosh",
-name:"malajure"
+name:"malajure",
 email:"malajure.santosh@gmail.com"
  )
